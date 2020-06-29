@@ -1,5 +1,4 @@
 # Digital-Musicology
 Repo for the digital musicology, DH-401 course at EPFL
 
-
-The project was
+The field of music generation is interesting for its interesting artistic contributions to musical canon, but can also be used to explore the features of musical data in novel and exciting ways. In our semester project we analyzed similarities and differences across genres of music and instruments using neural networks. We used a recurrent neural network trained on modified MIDI file data to generate four separate instrument tracks (piano, guitar, drums, and bass) for three genres: pop-rock, ballad and house music. We used the differing loss values and distributions of these models to discover new or further explore existing features of musical notation data. Using these models we found that the melodic instruments carried more complexity in the ballad and pop rock genres than the house genre, while the more rhythmic instruments like drums and bass were more difficult to learn for the house genre.  We determined that, particularly in the house music genre, velocity accounted for a higher proportion of measured model loss than pitch loss when looking at rhythmic instruments. 
