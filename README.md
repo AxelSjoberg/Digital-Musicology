@@ -1,2 +1,5 @@
 # Digital-Musicology
-Repo for the digital musicology, D-H-401 course at EPFL
+Repo for the digital musicology, DH-401 course at EPFL
+
+
+The project was
